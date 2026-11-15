@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/kyoh86/kyoh86/main/profile-summary-card-output/rose_pine/4-productive-time.svg)
-```
-
-    
